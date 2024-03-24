@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevannaik66" alt="jeevannaik66" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/np_jeevan" target="blank"><img src="https://img.shields.io/twitter/follow/np_jeevan?logo=twitter&style=for-the-badge" alt="np_jeevan" /></a> </p>
+<p align="left"> <a href="https://www.threads.net/@np_jeevan" target="blank"><img src="https://img.shields.io/twitter/follow/np_jeevan?logo=twitter&style=for-the-badge" alt="np_jeevan" /></a> </p>
 
 - 🌱 I’m currently learning *************
 
