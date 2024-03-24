@@ -1,4 +1,4 @@
-![logo](https://github.com/Jeevannaik66/Jeevannaik66/blob/main/git%20banner.png)
+![logo](https://github.com/Jeevannaik66/Jeevannaik66/blob/main/Git%20hub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeevan Naik</h1>
 <h3 align="center">A passionate Web Designer from India</h3>
 
