@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/np_jeevan" target="blank"><img src="https://img.shields.io/twitter/follow/np_jeevan?logo=twitter&style=for-the-badge" alt="np_jeevan" /></a> </p>
 
-- 💬 Ask me about **,Web Design, UI UX design ,3d modeling**
+- 🌱 I’m currently learning *************
+
+- 💬 Ask me about **Web Design, UI UX design ,3d modeling**
 
 - 📫 How to reach me **naikjeevan66@gmail.com**
 
