@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://www.threads.net/@np_jeevan" target="blank"><img src="https://img.shields.io/twitter/follow/np_jeevan?logo=twitter&style=for-the-badge" alt="np_jeevan" /></a> </p>
 
-- 🌱 I’m currently learning *************
+- 🌱 I’m currently learning *#*##*#*
 
 - 💬 Ask me about **Web Design, UI UX design ,3d modeling**
 
