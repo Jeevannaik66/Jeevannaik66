@@ -14,8 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://jeevan-naik-portfolio.vercel.app/](https://jeevan-naik-portfolio.vercel.app/)
 
-- 💬 Ask me about **Web Design, UI UX design ,3d modeling**
-
+- 💬 Ask me about **Web Design, UI UX design**
+  
 - 📫 How to reach me **naikjeevan66@gmail.com**
 
 - 📄 Know about my experiences [https://jeevan-naik-portfolio.vercel.app/](https://jeevan-naik-portfolio.vercel.app/)
