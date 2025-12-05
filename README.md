@@ -1,6 +1,6 @@
 ![logo](https://github.com/Jeevannaik66/Jeevannaik66/blob/main/Git%20hub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeevan Naik</h1>
-<h3 align="center">A passionate Web Designer from India</h3>
+<h3 align="center">A passionate Web Dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevannaik66&label=Profile%20views&color=0e75b6&style=flat" alt="jeevannaik66" /> </p>
 
