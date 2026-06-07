@@ -1,41 +1,131 @@
-![logo](https://github.com/Jeevannaik66/Jeevannaik66/blob/main/Git%20hub%20Banner.png)
-<h1 align="center">Hi 👋, I'm Jeevan Naik</h1>
-<h3 align="center">A passionate Web Dev from India</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeevan Naik</h1>
+<h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevannaik66&label=Profile%20views&color=0e75b6&style=flat" alt="jeevannaik66" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevannaik66" alt="jeevannaik66" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jeevan_naik66" target="blank"><img src="https://img.shields.io/twitter/follow/jeevan_naik66?logo=twitter&style=for-the-badge" alt="jeevan_naik66" /></a> </p>
-
-- 🔭 I’m currently working on **#E#N**
-
-- 🌱 I’m currently learning ***#*##*#***
-
-- 👨‍💻 All of my projects are available at [https://jeevan-naik-portfolio.vercel.app/](https://jeevan-naik-portfolio.vercel.app/)
-
-- 💬 Ask me about **Web Design, UI UX design**
-  
-- 📫 How to reach me **naikjeevan66@gmail.com**
-
-- 📄 Know about my experiences [https://jeevan-naik-portfolio.vercel.app/](https://jeevan-naik-portfolio.vercel.app/)
-
-- ⚡ Fun fact **Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jeevan_naik66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeevan_naik66" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeevan-naik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevan-naik/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Jeevannaik66">
+    <img src="https://komarev.com/ghpvc/?username=Jeevannaik66&label=Profile%20views&color=00FFFF&style=flat-square" alt="Jeevannaik66's profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📌 About Me
+- 🎓 B.E. in Computer Science & Engineering — MITE Mangalore (2025)
+- 💼 Full Stack Developer at Inferentics, building EdTech backend systems & APIs
+- 🌱 Currently learning distributed systems & scalable backend architecture
+- ⚡ Passionate about building real-world impact through clean, scalable code
+- 📍 Based in Kumta, Uttar Kannada, Karnataka
 
 
+## 🧠 My Focus Areas
+- Full Stack Web Development
+- Backend & API Engineering
+- Cloud Infrastructure & DevOps
+- AI/ML Integration
+- AI-Augmented Software Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevannaik66&show_icons=true&locale=en&layout=compact" alt="jeevannaik66" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevannaik66&show_icons=true&locale=en" alt="jeevannaik66" /></p>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeevannaik66&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Jeevannaik66's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Jeevannaik66&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jeevan Naik's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevannaik66&theme=github_dark&radius=10" alt="Jeevannaik66's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevannaik66&" alt="jeevannaik66" /></p>
 
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jeevannaik66">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeevannaik66&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=Jeevannaik66)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevan-naik/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Jeevan_naik66?t=Aw8IEmsN1gAQv4bJmry3JQ&s=09">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:naikjeevan66@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://jeevan-naik-portfolio.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> Building things that matter
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
