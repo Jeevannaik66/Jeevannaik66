@@ -34,7 +34,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevannaik66&theme=github_dark&radius=10" alt="Jeevannaik66's Activity Graph" />
 </p>
 <p align="center">
-  <img src="/3d-city.svg" alt="3D City View Preview" width="100%" />
+<img src="profile-3d-city.svg" alt="3D City View Preview" width="100%" />
 </p>
 
 
