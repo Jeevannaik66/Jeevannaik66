@@ -25,8 +25,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeevannaik66&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Jeevannaik66's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Jeevannaik66&theme=github_dark&hide_border=true&v=1" alt="Jeevannaik66's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jeevannaik66/Jeevannaik66/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
