@@ -1,8 +1,9 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:7c3aed,100:4f46e5&height=200&section=header&text=Jeevan%20Naik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=22)](https://github.com/Jeevannaik66)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:7c3aed,100:4f46e5&height=200&section=header&text=Jeevan%20Naik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=22)](https://github.com/Jeevannaik66)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full+Stack+Developer+%40+Inferentics;AI-Augmented+Software+Development;Building+EdTech+Solutions+for+Better+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Developer+%40+Inferentics;AI-Augmented+Software+Development;Building+EdTech+Solutions+for+Better+Learning)](https://git.io/typing-svg)
+
 
 <br/>
 
