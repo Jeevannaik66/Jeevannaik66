@@ -60,7 +60,8 @@ Specializing in **full-stack web development**, **RESTful APIs**, and **database
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeevannaik66&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeevannaik66&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=10&v=3" alt="Top Languages" />
+
 
 </div>
 
@@ -151,7 +152,7 @@ Developed an event management platform with registration, ticketing, and real-ti
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Jeevannaik66&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=4f46e5&currStreakLabel=c9d1d9&v=2" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Jeevannaik66&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=4f46e5&currStreakLabel=c9d1d9&v=3" alt="GitHub Streak" width="49%" />
 
 </div>
 
@@ -161,9 +162,10 @@ Developed an event management platform with registration, ticketing, and real-ti
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jeevannaik66/Jeevannaik66/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Jeevannaik66/Jeevannaik66/output/github-contribution-grid-snake-dark.svg?v=3" alt="Snake Animation" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevannaik66&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=4f46e5&point=c084fc&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevannaik66&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=4f46e5&point=c084fc&radius=10&v=3)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <img src="profile-3d-city.svg" alt="3D City View Preview" width="100%" />
 
